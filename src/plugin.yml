@@ -1,0 +1,28 @@
+name: ZorahPractice
+main: me.joeleoli.practice.PracticePlugin
+author: joeleoli
+version: 1.0
+commands:
+    help:
+    practice:
+        aliases: [prac]
+    ladder:
+    arena:
+    party:
+    inventory:
+        aliases: [inv]
+    duel:
+    partyduel:
+    spectate:
+        aliases: [watch, spec]
+    savedata:
+    cancel:
+    statistics:
+        aliases: [stats, elo]
+    day:
+    night:
+    variable:
+       aliases: [var]
+    changelog:
+    ping:
+depend: [ProtocolLib]
